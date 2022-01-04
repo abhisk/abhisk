@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Abhishek and I am currently working full time with Magento
+
 <!--
 **abhisk/abhisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
